@@ -1,6 +1,6 @@
 ---
 title: "Examine Life Expectancy"
-author: "Your Name"
+author: "Olivia Freides"
 date: "`r Sys.Date()`"
 output:
   html_document:
@@ -16,4 +16,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Here, I re-examine the analysis of Oeppen and Vaupel (2002).
 
-# Analysis
+# Life Expectancy Analysis
+
+
